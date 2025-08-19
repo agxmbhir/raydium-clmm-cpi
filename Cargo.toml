@@ -9,7 +9,7 @@ anchor-lang = "0.31.0"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "raydium_clmm_cp"
+name = "raydium_clmm_cpi"
 
 [features]
 no-entrypoint = []
