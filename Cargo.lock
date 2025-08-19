@@ -1023,7 +1023,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "raydium-cp-swap"
+name = "raydium-clmm-cpi"
 version = "0.1.0"
 dependencies = [
  "anchor-gen",
